@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Wallet Hub">
+	<test name="Wallet Hub Facebook Test">
+		<classes>
+			<class name="facebook.facebook_post" />
+		</classes>
+	</test>
+</suite>

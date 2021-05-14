@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Wallet Hub">
+	<test name="Wallet Review Post Verify">
+		<classes>
+			<class name="wallet.review_post" />
+		</classes>
+	</test>
+</suite>
